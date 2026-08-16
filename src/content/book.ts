@@ -269,6 +269,93 @@ export const SILENT_SOUND_OF_TIME_BOOK: BookData = {
           quoteAuthor: "To be continued in Chapter 5..."
         }
       ]
+    },
+    {
+      number: 5,
+      title: "Truth and Dares and Hidden Hearts",
+      subtitle: "There are some moments in life that don’t look important from the outside—",
+      contentBlocks: [
+        {
+          type: "text",
+          hasDropCap: true,
+          paragraphs: [
+            "There are some moments in life that don’t look important from the outside—\njust a group of friends sitting in the college canteen, laughing, teasing, passing time.\nBut deep down, you know that moment is going to follow you for years.",
+            "That day, the canteen felt louder than usual.\nMaybe because my heart was beating louder inside me.\nWe were all sitting together, playing Truth and Dare, laughing at stupid questions…\nand she was sitting right across from me.",
+            "Samiksha."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "Not knowing—\nnot even imagining—\nthat every small thing she did was pulling me deeper into something I wasn’t ready for,\nsomething I had promised myself I would never feel again.",
+            "The truth is… neither of us were ready for love.\nWe both carried pasts that hurt too much.\nWe both had promised to stay away from relationships.\nWe were two broken people who had decided to stay safe.",
+            "But life doesn’t listen to your promises.\nAnd her smile destroyed mine the moment I saw it."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "That day during the game, every time she talked, my eyes went to her.\nHer laugh…\nThe way she looked at people while teasing them…\nThe way her voice sounded when she spoke my name—\n“Rishi.”\nNobody else called me that.\nOnly her.\nOnly Samiksha.\nAnd the way she said it—that softness, that innocence—\nit felt like my heart had found someone who knew exactly how to touch it."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "She didn’t know that I had already started saving her pictures.\nNot selfies she sent—because she never sent any—\nbut the small moments she posted in her stories.\nI would take screenshots quietly, secretly,\nand stare at them at night.\nEvening chats turning into long talks,\nlong talks turning into midnight conversations,\nsometimes stretching till 1 or 2 AM.",
+            "We didn’t talk much in the mornings or afternoons.\nBut nights…\nNights belonged to us."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "Somewhere in those hours, she told me about her past—\nher ex, her heartbreak, her fear of relationships.\nIt reflected my own pain too perfectly.\nTwo people trying not to love again,\nyet slowly healing each other without realising it.",
+            "Then she told me about her crush.\nA boy she had seen once, at her sister’s wedding.\nA stranger her heart had held onto.",
+            "My first instinct should have been jealousy.\nBut all I felt was a strange ache—\nand a strange honesty.",
+            "“Go tell him,” I had said.\n“Confess it. If that’s what your heart wants.”",
+            "Because even if it hurt me,\neven if it meant I would lose her,\nI wanted her to be happy.\nHer smile had already become bigger than my feelings."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "But during that game, everything changed.",
+            "Someone asked her:\n“Samiksha, tell one thing honestly… who do you trust the most in this college?”",
+            "She didn’t look at anyone else.\nShe didn’t think twice.",
+            "Her eyes found mine.\nAnd she said my name.\n“Rishi.”",
+            "In that moment, something inside me broke…\nand something else healed.",
+            "Maybe that’s how love begins—\nnot with grand confessions,\nbut with quiet truths hidden inside stupid games."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "She kept teasing me about my “mystery crush”,\nmaking fun of how shy I was,\nhow I avoided giving hints.\nEveryone in college knew her name was written on my heart—\neveryone except her.",
+            "And I was terrified.\nTerrified that if I said the truth,\nI wouldn’t just lose my chance—\nI would lose her friendship too.",
+            "But the irony is…\nshe was searching for the girl I was in love with,\nnot knowing she herself was the answer to every question."
+          ]
+        },
+        {
+          type: "text",
+          hasDropCap: false,
+          paragraphs: [
+            "That day, sitting across the table with her laughing,\nwith her calling me “Rishi” in that soft voice,\nwith her trusting me more than anyone else—",
+            "I realised something that shook me:",
+            "My hidden heart wasn’t hiding anymore.\nIt had already chosen her.",
+            "And the truth was no longer a dare—\nit was destiny."
+          ]
+        },
+        {
+          type: "quote",
+          quote: "My hidden heart wasn’t hiding anymore. It had already chosen her. And the truth was no longer a dare—it was destiny.",
+          quoteAuthor: "To be continued in Chapter 6..."
+        }
+      ]
     }
   ],
   epilogue: {
